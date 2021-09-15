@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/djangof/media" />
+      <excludeFolder url="file://$MODULE_DIR$/djangof/project" />
+      <excludeFolder url="file://$MODULE_DIR$/djangof/resto" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterd/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterd/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterd/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterd/android" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterd/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterd/ios" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterd/macos/Flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterd/windows/flutter/ephemeral" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
